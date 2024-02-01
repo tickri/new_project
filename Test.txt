@@ -1,0 +1,9 @@
+Hi,
+
+ich probiere gerade git aus und befasse mich damit neue repositorys zu erstellen,
+sie mit dateien zu füllen,
+alle dateien zu git hinzuzufügen (git add .),
+die repositorys zu commiten  und sie mit einer kurzen Erläuterung zu versehen (commit - "Beschreibung was gemacht wurde"),
+gut push zum hochladen zu github.
+
+:)
